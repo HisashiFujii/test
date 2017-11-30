@@ -1,1 +1,2 @@
 c:\users\藤井久司\documents\visual studio 2015\Projects\test\bin\Debug\test.exe.config
+C:\Users\藤井久司\Source\Repos\test\test\bin\Debug\test.exe.config
